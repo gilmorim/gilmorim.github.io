@@ -1,0 +1,13 @@
+baseURL = 'https://gilmorim.github.io'
+languageCode = 'en'
+title = 'Gil Morim Blog'
+
+theme = 'anatole'
+
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+pygmentsUseClasses = true   
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
