@@ -1,0 +1,11 @@
+{
+    "name": "GGM-ARCH",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": ".."
+    },
+    "postCreateCommand": "/usr/sbin/zsh .devcontainer/init/init.sh",
+    "remoteUser": "ggm",
+    "overrideCommand": true,
+    "forwardPorts": [1313]
+}
