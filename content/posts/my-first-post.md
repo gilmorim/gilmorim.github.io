@@ -2,7 +2,7 @@
 title: "hello, world"
 date: 2022-05-22T14:05:08+01:00
 draft: false
-description: "first post, be gentle"
+description: "hello world"
 tags: ["introduction"]
 ---
 
