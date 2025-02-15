@@ -1,3 +1,12 @@
 .hugo_build.lock
 /public/
 /resources/_gen/
+
+# Generated files by hugo
+/assets/jsconfig.json
+hugo_stats.json
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
