@@ -7,6 +7,4 @@ tags: ["introduction"]
 ---
 
 This is my first blog post, hopefully I can share more of myself to people. 
-Mostly will be posting notes, reflections and thoughts to myself, and if others enjoy reading it, even better.
-
-Welcome in, and enjoy your stay <code>:blush:</code>
+Mostly will be posting notes from my studies.
